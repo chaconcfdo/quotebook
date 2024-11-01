@@ -5,3 +5,6 @@ new text from first_file > master branch
 new text from first_file > dev branch
 
 testting diff
+
+
+new text here ------------------
