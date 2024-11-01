@@ -5,3 +5,6 @@ new text from personal_quote > master branch
 new text from personal_quote > dev branch
 
 hello world, this is a new update.
+
+
+I have this text new on the remote repo
