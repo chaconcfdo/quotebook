@@ -3,3 +3,5 @@ I prefer to die rather than no live
 
 new text from personal_quote > master branch
 new text from personal_quote > dev branch
+
+hello world, this is a new update.
